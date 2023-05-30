@@ -355,3 +355,37 @@ th{
   }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cards{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr) ;
+  grid-template-rows: repeat(3, 1fr) ;
+}
+.allCards{
+  margin: 10px;
+}
+.cardLong{
+  grid-column: span 2;
+}
+.card img{
+  width: 100%;
+}
+.cardLong img {
+  width: 100%;
+}

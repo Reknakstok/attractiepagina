@@ -25,7 +25,56 @@ require_once 'admin/backend/config.php';
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia modi dolore magnam! Iste libero voluptatum autem, sapiente ullam earum nostrum sed magnam vel laboriosam quibusdam, officia, esse vitae dignissimos nulla?
         </aside>
         <main>
-            <!-- hier komen de attractiekaartjes -->
+            <div class="cards">
+                <div class="card">
+                    <div class="allCards">
+                        <img src="doc/Element_S.png">
+                    </div>
+                </div>
+                <div class="cardLong">
+                    <div class="allCards">
+                        <img src="doc/Element_L.png">
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="allCards">
+                        <img src="doc/Element_S.png">
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="allCards">
+                        <img src="doc/Element_S.png">
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="allCards">
+                        <img src="doc/Element_S.png">
+                    </div>
+                </div>
+                <div class="cardLong">
+                    <div class="allCards">
+                        <img src="doc/Element_L.png">
+                    </div>
+                </div>
+                <div class="cardLong">
+                    <div class="allCards">
+                        <img src="doc/Element_L.png">
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="allCards">
+                        <img src="doc/Element_S.png">
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="allCards">
+                        <img src="doc/Element_S.png">
+                    </div>
+                </div>
+                
+                
+            </div>
+
         </main>
     </div>
 
